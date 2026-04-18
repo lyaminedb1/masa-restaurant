@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /mentions-legales.html
+Sitemap: https://masa-kebab-chambly.netlify.app/sitemap.xml
