@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /mentions-legales.html
-Sitemap: https://masa-kebab-chambly.netlify.app/sitemap.xml
+Sitemap: https://masa-grillades-thillay.netlify.app/sitemap.xml
